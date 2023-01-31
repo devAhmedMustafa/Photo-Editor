@@ -171,7 +171,7 @@ input[type="range"] {
 	}
 }
 
-@media only screen and (max-width:650px){
+@media only screen and (max-width:750px){
     .container{
         display: grid;
         grid-template-columns: 1fr;
